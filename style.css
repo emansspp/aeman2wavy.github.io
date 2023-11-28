@@ -458,7 +458,7 @@ body.dark-theme{
 .home__social-link{
     background-color: var(--black-color-light);
     color: var(--white-color);
-    font-size: 1.25rem;
+    font-size: 0.5rem;
     padding: 6px;
     display: grid;
     place-items: center;
