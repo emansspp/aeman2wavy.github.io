@@ -1102,7 +1102,7 @@ row-gap: 2rem;
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width:380px) {
+@media screen and (max-width:11.01%) {
 
     .contact__data{
         width: 100%;
